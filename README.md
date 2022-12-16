@@ -104,7 +104,7 @@ this command used to set default file context
 	#semanage fcontext --help
 	#man semanage fcontext 
 ```
-*semanage fcontext entry file location
+#### semanage fcontext entry file location
 ```
 	# cat /etc/selinux/targeted/contexts/files/file_contexts.local
 ```	
