@@ -1,6 +1,6 @@
 
 # SELinux in RedHat Enterprise Linux
-SELinux(Security Enchanced Linux)
+SELinux(Security Enhanced Linux)
 
 
 SELinux is a set of security rules that determine which process can access which files, 
